@@ -4,6 +4,6 @@ public class Hello {
         System.out.println("hello");
         System.out.println("word");
         System.out.println("\n");
-        System.out.println("这是分支1中添加的内容");
+        System.out.println("这是第一次分支的内容");
     }
 }
